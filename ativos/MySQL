@@ -1,0 +1,11 @@
+Create table livros(
+>Livro varchar (20),
+>Categoria varchar (20),
+>Nome cliente varchar (20),
+>Nascimmto Date,
+>E-mail
+
+
+Quero ok, 0 Rows affected (0.25 séc)
+
+Load data local infile/caminho/arquivo.txt into tablet livros
